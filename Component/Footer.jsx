@@ -14,7 +14,7 @@ const Footer = () => {
           <p className="mb-2 text-gray">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </p>
-          <p className="mb-1">📞 +92 532 49337</p>
+          <p className="mb-1">📞 +91 89090786567</p>
           <p className="mb-1">🕒 Response Hours: 8 AM – 8 PM</p>
           <p>✉️ info@anklearn.com</p>
         </div>

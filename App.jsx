@@ -18,6 +18,7 @@ const App = () => {
      <Training/>
      <Client/>
      <Footer/>
+     
     </div>
   )
 }
